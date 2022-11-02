@@ -1,0 +1,8 @@
+.inicio {
+  display: flex;
+  background: var(--fondo-oscuro);
+  height: calc(100vh - 80px);
+  align-items: center;
+  min-height: 450px;
+
+}

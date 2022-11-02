@@ -1,0 +1,6 @@
+.inicio__fotografia {
+  min-width: 350px;
+  min-height: 350px;
+  background: gray;
+  border-radius: 50%;
+}

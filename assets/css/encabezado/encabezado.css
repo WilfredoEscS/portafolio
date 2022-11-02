@@ -1,5 +1,6 @@
 .encabezado {
   display: flex;
-  background: #2c3333;
+  background: var(--fondo-oscuro);
   width: 100%;
+  border-bottom:  1px solid #35778aab;
 }

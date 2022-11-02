@@ -2,8 +2,12 @@
 
 :root {
   --raleway: "Raleway", sans-serif;
+  --fondo-oscuro: #132c33;
+  --texto-gris: #d8e3e7;
 }
-body{
-    font-family: var(--raleway);
-
+body {
+  font-family: var(--raleway);
+}
+a {
+  text-decoration: none;
 }

@@ -1,0 +1,10 @@
+.inicio__titulo {
+  color: #51c4d3;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.75rem;
+}
+
+.inicio__titulo--nombre {
+  font-size: 3.25rem;
+}

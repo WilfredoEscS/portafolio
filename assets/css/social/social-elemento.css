@@ -1,0 +1,23 @@
+.social__elemento {
+  padding: 1rem 4.5rem 1rem 0;
+  background-position: top 0.75rem right 2.5rem;
+  background-repeat: no-repeat;
+  background-size: 1.5rem;
+}
+
+.social__elemento--github {
+  background-image: url("../../img/iconoSocial/icon-github.png");
+}
+
+.social__elemento--linkedin {
+  background-image: url("../../img/iconoSocial/icon-linkedin.png");
+}
+
+.social__elemento--instagram {
+  display: none;
+  background-image: url("../../img/iconoSocial/icon-instagram.png");
+}
+
+.social__elemento--cv {
+  background-image: url("../../img/iconoSocial/icon-cv.png");
+}

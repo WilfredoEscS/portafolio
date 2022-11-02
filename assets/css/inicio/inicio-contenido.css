@@ -1,0 +1,4 @@
+.inicio__contenido {
+  display: flex;
+  justify-content: space-between;
+}
