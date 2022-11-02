@@ -1,8 +1,7 @@
 .inicio {
   display: flex;
   background: var(--fondo-oscuro);
-  height: calc(100vh - 80px);
+  height: calc(100vh);
   align-items: center;
-  min-height: 450px;
-
+  min-height: 575px;
 }
