@@ -1,0 +1,32 @@
+.skills__tarjeta {
+  align-items: flex-end;
+  background-position: center 25%;
+  background-size: 95%;
+  background-repeat: no-repeat;
+  display: flex;
+  height: 225px;
+  justify-content: center;
+  transition: 1s;
+  width: 175px;
+}
+
+.skills__tarjeta:hover {
+  transition: 1s;
+  scale: 110%;
+}
+
+.skills__tarjeta--css {
+  background-image: url("../../img/skills/icono-css.png");
+}
+
+.skills__tarjeta--html {
+  background-image: url("../../img/skills/icono-html.png");
+}
+
+.skills__tarjeta--javascript {
+  background-image: url("../../img/skills/icono-javascript.png");
+}
+.skills__tarjeta--git {
+  background-image: url("../../img/skills/icono-git.png");
+}
+

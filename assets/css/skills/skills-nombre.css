@@ -1,0 +1,7 @@
+.skills__nombre {
+  color: var(--texto-gris);
+  font-size: 1.5rem;
+  font-weight: 700;
+  height: fit-content;
+  margin: 1rem;
+}
