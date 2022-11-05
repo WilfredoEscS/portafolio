@@ -2,6 +2,7 @@
   align-items: center;
   background: #2c3333;
   display: flex;
-  height: calc(100vh);
+  height: 100vh;
   justify-content: center;
+  min-height: 450px;
 }
