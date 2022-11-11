@@ -1,0 +1,7 @@
+.hobbies__actividad {
+  color: var(--texto-gris);
+  font-size: 1rem;
+  font-weight: 700;
+  height: fit-content;
+  margin: 0.75rem;
+}

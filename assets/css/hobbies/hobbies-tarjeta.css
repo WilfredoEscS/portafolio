@@ -1,0 +1,39 @@
+.hobbies__tarjeta {
+  align-items: flex-end;
+  background-color: #525b75;
+  background-position: left 0.75rem bottom 2.5rem;
+  background-repeat: no-repeat;
+  background-size: 4rem;
+  border-radius: 1rem 1rem 0 1rem;
+  box-shadow: 0.75rem 0.75rem 0.55rem #0c1c20;
+  display: flex;
+  height: 175px;
+  justify-content: left;
+  margin: 1rem;
+  transition: 0.25s;
+  width: 150px;
+}
+.hobbies__tarjeta:hover {
+  scale: 110%;
+  transition: 0.25s;
+}
+
+.hobbies__tarjeta--lectura {
+  background-image: url("../../img/hobbies/lectura.png");
+}
+
+.hobbies__tarjeta--videojuegos {
+  background-image: url("../../img/hobbies/videojuegos.png");
+}
+
+.hobbies__tarjeta--musica {
+  background-image: url("../../img/hobbies/musica.png");
+}
+
+.hobbies__tarjeta--series-peliculas {
+  background-image: url("../../img/hobbies/series.png");
+}
+
+.hobbies__tarjeta--ciclismo {
+  background-image: url("../../img/hobbies/ciclismo.png");
+}
