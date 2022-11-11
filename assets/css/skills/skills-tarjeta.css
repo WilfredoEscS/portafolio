@@ -1,17 +1,21 @@
 .skills__tarjeta {
   align-items: flex-end;
-  background-position: center 25%;
-  background-size: 95%;
+  background-color: #525b75;
+  background-position: left 0.75rem bottom 2.5rem;
   background-repeat: no-repeat;
+  background-size: 4rem;
+  border-radius: 1rem 1rem 0 1rem;
+  box-shadow: 0.75rem 0.75rem 0.55rem #0c1c20;
   display: flex;
-  height: 225px;
-  justify-content: center;
-  transition: 1s;
-  width: 175px;
+  height: 175px;
+  justify-content: left;
+  margin: 1rem;
+  transition: 0.25s;
+  width: 150px;
 }
 
 .skills__tarjeta:hover {
-  transition: 1s;
+  transition: 0.25s;
   scale: 110%;
 }
 
@@ -29,4 +33,3 @@
 .skills__tarjeta--git {
   background-image: url("../../img/skills/icono-git.png");
 }
-
