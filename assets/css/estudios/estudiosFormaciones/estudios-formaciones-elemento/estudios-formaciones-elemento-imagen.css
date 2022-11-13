@@ -1,0 +1,13 @@
+.estudios__formaciones__elemento__imagen {
+  align-items: center;
+  background: white;
+  border-radius: 1rem;
+  display: flex;
+  height: 250px;
+  justify-content: center;
+  width: 350px;
+}
+.estudios__formaciones__elemento__imagen > img {
+  height: fit-content;
+  width: fit-content;
+}

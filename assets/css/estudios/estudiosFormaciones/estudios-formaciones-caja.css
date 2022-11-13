@@ -1,0 +1,13 @@
+.estudios__formaciones__caja {
+  margin-left: 2rem;
+  transition: 0.25s;
+}
+
+.estudios__formaciones__caja:hover {
+  transition: 0.25s;
+  scale: 110%;
+}
+
+.estudios__formaciones__caja:first-child {
+  margin-left: 0;
+}

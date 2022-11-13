@@ -1,0 +1,7 @@
+.estudios__formaciones__elemento__titulo {
+  font-weight: 700;
+  color: var(--texto-gris);
+  font-size: 1.25rem;
+  line-height: 2rem;
+  margin-left: 0.5rem;
+}

@@ -1,0 +1,9 @@
+.estudios {
+    align-items: center;
+    background: #2c3333;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    min-height: 450px;
+  }
+  
