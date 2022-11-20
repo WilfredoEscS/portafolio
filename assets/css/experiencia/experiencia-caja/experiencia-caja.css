@@ -1,0 +1,11 @@
+.experiencia__caja {
+  display: flex;
+  padding: 1rem 0;
+  justify-content: space-around;
+
+}
+
+.experiencia__caja--inverso {
+flex-flow: row-reverse;
+}
+

@@ -1,0 +1,4 @@
+.experiencia__imagen {
+  width: calc(60% - 2rem);
+  border-radius: 1rem;
+}

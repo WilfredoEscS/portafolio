@@ -1,0 +1,8 @@
+.experiencia__descripcion {
+  align-content: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: start;
+  width: calc(40% - 2rem);
+}

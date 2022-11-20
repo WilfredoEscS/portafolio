@@ -1,0 +1,7 @@
+.experiencia__titulo {
+  color: var(--texto-gris);
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 2.5rem;
+  width: 100%;
+}
