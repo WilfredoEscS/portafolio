@@ -1,0 +1,11 @@
+.formcontacto__boton {
+  background: #66afc9;
+  border-radius: 0.75rem;
+  border: none;
+  font-family: var(--raleway);
+  font-size: 1rem;
+  font-weight: 400;
+  padding: 1rem;
+  width: fit-content;
+  color: var(--texto-gris);
+}

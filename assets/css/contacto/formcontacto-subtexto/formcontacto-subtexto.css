@@ -1,0 +1,8 @@
+.formcontacto__subtexto {
+  color: var(--texto-gris);
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.25rem;
+  margin-bottom: 2rem;
+  width: 100%;
+}

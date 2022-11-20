@@ -1,0 +1,7 @@
+.formcontacto__texto {
+  background: #395b64;
+  border-radius: 2rem;
+  font-family: var(--raleway);
+  padding: 3rem;
+  width: 60%;
+}
