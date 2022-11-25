@@ -1,0 +1,8 @@
+.estudios__seccion__titulo {
+  text-align: center;
+  color: #a5c9ca;
+  font-family: var(--raleway);
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 5rem;
+}

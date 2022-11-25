@@ -1,5 +1,7 @@
-/* Varables */
+@import url(contenedor.css);
+@import url(reset.css);
 
+/* Varables */
 :root {
   --raleway: "Raleway", sans-serif;
   --fondo-oscuro: #132c33;

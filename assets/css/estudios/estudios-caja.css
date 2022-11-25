@@ -1,0 +1,7 @@
+.estudios__caja {
+  margin-left: 2rem;
+}
+
+.estudios__caja:first-child {
+  margin-left: 0;
+}
