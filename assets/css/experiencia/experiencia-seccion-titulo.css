@@ -1,6 +1,6 @@
 .experiencia__seccion__titulo {
   text-align: center;
-  color: #51c4d3;
+  color: var(--color-titulo-principal);
   font-size: 2.5rem;
   font-weight: 700;
   line-height: 5rem;

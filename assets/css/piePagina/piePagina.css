@@ -2,7 +2,7 @@
 
 .pie-pagina {
   display: flex;
-  background: var(--fondo-oscuro);
+  background: var(--color-fondo-principal);
   justify-content: center;
   padding: 2rem;
 }

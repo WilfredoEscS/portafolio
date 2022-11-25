@@ -1,11 +1,11 @@
 .skills__tarjeta {
   align-items: flex-end;
-  background-color: #525b75;
+  background-color: var(--color-fondo-tarjeta);
   background-position: left 0.75rem bottom 2.5rem;
   background-repeat: no-repeat;
   background-size: 4rem;
   border-radius: 1rem 1rem 0 1rem;
-  box-shadow: 0.75rem 0.75rem 0.55rem #0c1c20;
+  box-shadow: 0.75rem 0.75rem 0.55rem var(--color-sombra);
   display: flex;
   height: 175px;
   justify-content: left;
@@ -16,7 +16,6 @@
 
 .skills__tarjeta:hover {
   transition: 0.25s;
-  scale: 110%;
 }
 
 .skills__tarjeta--css {

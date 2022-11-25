@@ -6,10 +6,9 @@
 @import url(estudios-titulo.css);
 
 .estudios {
-    align-items: center;
-    background: #2c3333;
-    display: flex;
-    justify-content: center;
-    padding: 3rem 0 3rem 0;
-  }
-  
+  align-items: center;
+  background: var(--color-fondo-secundrio);
+  display: flex;
+  justify-content: center;
+  padding: 3rem 0 3rem 0;
+}

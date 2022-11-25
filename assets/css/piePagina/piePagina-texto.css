@@ -1,8 +1,8 @@
 .pie-pagina__texto {
-  color: var(--texto-gris);
+  color: var(--color-texto);
   font-weight: 400;
 }
 
 .pie-pagina__texto > span {
-  color: #66afc9;
+  color: var(--color-titulo-principal);
 }

@@ -1,5 +1,5 @@
 .inicio__titulo {
-  color: #51c4d3;
+  color: var(--color-titulo-principal);
   font-size: 2rem;
   font-weight: 700;
   line-height: 2.75rem;

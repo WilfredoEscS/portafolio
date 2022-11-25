@@ -9,7 +9,7 @@
 
 .experiencia {
   align-items: center;
-  background: #132c33;
+  background: var(--color-fondo-principal);
   display: flex;
   justify-content: center;
   padding: 3rem 0 3rem 0;

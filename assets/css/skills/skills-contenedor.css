@@ -1,6 +1,5 @@
 .skills__contenedor {
   display: flex;
   justify-content: center;
-  min-height: 300px;
   align-items: center;
 }

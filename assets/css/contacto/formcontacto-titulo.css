@@ -1,7 +1,7 @@
 .formcontacto__titulo {
   text-align: start;
-  color: #a5c9ca;
-  font-family: var(--raleway);
+  color: var(--color-titulo-secundario);
+  font-family: var(--fuente-raleway);
   font-size: 2.5rem;
   font-weight: 700;
   line-height: 5rem;

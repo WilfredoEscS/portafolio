@@ -10,14 +10,14 @@
 }
 
 .experiencia__boton--repo {
-  background: #132c33;
-  border: 2px solid #51c4d3;
-  color: #51c4d3;
+  background: var(--color-fondo-principal);
+  border: 2px solid var(--color-botones);
+  color: var(--color-botones);
   margin-right: 1rem;
 }
 
 .experiencia__boton--demo {
-  background: #51c4d3;
-  border: 2px solid #132c33;
-  color: #132c33;
+  background: var(--color-botones);
+  border: 2px solid transparent;
+  color: var(--color-fondo-principal);
 }

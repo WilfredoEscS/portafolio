@@ -3,7 +3,7 @@
 
 .sobre-mi {
   align-items: center;
-  background: #2c3333;
+  background: var(--color-fondo-secundrio);
   display: flex;
   height: 100vh;
   justify-content: center;

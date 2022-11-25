@@ -1,5 +1,5 @@
 .inicio__formacion {
-  color: var(--texto-gris);
+  color: var(--color-texto);
   font-size: 1.25rem;
   line-height: 1.5rem;
   max-width: calc(80vw - 350px);

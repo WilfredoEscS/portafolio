@@ -1,4 +1,6 @@
-.estudios__subtitulo{font-size: 1rem;
-font-weight: 500;
-margin-left: 0.5rem;
-color: var(--texto-gris);}
+.estudios__subtitulo {
+  font-size: 1rem;
+  font-weight: 500;
+  margin-left: 0.5rem;
+  color: var(--color-texto);
+}

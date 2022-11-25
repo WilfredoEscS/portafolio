@@ -1,11 +1,12 @@
 .formcontacto__textarea {
-  background: #395b64;
+  background: var(--color-fondo-formulario);
   border-radius: 0.5rem;
-  border: 1px solid #e7f6f2;
-  color: #a5c9ca;
+  border: 1px solid var(--borde-formimput);
+  color: var(--color-texto);
   font-size: 1rem;
-  font-family: var(--raleway);
+  font-family: var(--fuente-raleway);
   margin-bottom: 1.5rem;
   outline: none;
   padding: 1rem;
+  resize: none;
 }
