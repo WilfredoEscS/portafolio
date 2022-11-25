@@ -1,8 +1,7 @@
 .estudios__titulo {
-  text-align: center;
-  color: #a5c9ca;
-  font-family: var(--raleway);
-  font-size: 2.5rem;
   font-weight: 700;
-  line-height: 5rem;
+  color: var(--texto-gris);
+  font-size: 1.25rem;
+  line-height: 2rem;
+  margin-left: 0.5rem;
 }
