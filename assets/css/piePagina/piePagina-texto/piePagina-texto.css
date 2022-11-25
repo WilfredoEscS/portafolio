@@ -1,0 +1,8 @@
+.pie-pagina__texto {
+  color: var(--texto-gris);
+  font-weight: 400;
+}
+
+.pie-pagina__texto > span {
+  color: #66afc9;
+}

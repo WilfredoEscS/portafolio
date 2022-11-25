@@ -1,0 +1,6 @@
+.pie-pagina {
+  display: flex;
+  background: var(--fondo-oscuro);
+  justify-content: center;
+  padding: 2rem;
+}
