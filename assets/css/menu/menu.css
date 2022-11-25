@@ -1,3 +1,7 @@
+@import url(menu-elemento.css);
+@import url(menu-lista.css);
+@import url(menu-enlace.css);
+
 .menu {
   display: flex;
   justify-content: flex-end;

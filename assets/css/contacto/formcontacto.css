@@ -1,3 +1,13 @@
+@import url(formcontacto-boton.css);
+@import url(formcontacto-contenedor.css);
+@import url(formcontacto-formulario.css);
+@import url(formcontacto-formulario.css);
+@import url(formcontacto-imput.css);
+@import url(formcontacto-subtexto.css);
+@import url(formcontacto-textarea.css);
+@import url(formcontacto-texto.css);
+@import url(formcontacto-titulo.css);
+
 .formcontacto {
   align-items: center;
   background: #2c3333;

@@ -1,3 +1,9 @@
+@import url(inicio-contenido.css);
+@import url(inicio-formacion.css);
+@import url(inicio-fotografia.css);
+@import url(inicio-texto.css);
+@import url(inicio-titulo.css);
+
 .inicio {
   display: flex;
   background: var(--fondo-oscuro);

@@ -1,3 +1,5 @@
+@import url(piePagina-texto.css);
+
 .pie-pagina {
   display: flex;
   background: var(--fondo-oscuro);

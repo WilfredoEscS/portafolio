@@ -1,3 +1,6 @@
+@import url(sobreMi-texto.css);
+@import url(sobreMi-titulo.css);
+
 .sobre-mi {
   align-items: center;
   background: #2c3333;

@@ -1,4 +1,7 @@
-.social{
-    display: flex;
-    align-items: center;
+@import url(social-elemento.css);
+@import url(social-enlace.css);
+
+.social {
+  display: flex;
+  align-items: center;
 }
