@@ -10,6 +10,6 @@
     background: #2c3333;
     display: flex;
     justify-content: center;
-    min-height: 450px;
+    padding: 3rem 0 3rem 0;
   }
   
