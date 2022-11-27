@@ -1,26 +1,18 @@
 /* Varables */
 :root {
-  /* Color de fondo */
   --color-fondo-principal: #132c33;
   --color-fondo-secundrio: #2c3333;
   --color-fondo-tarjeta: #27496d;
   --color-botones: #51c4d3;
   --color-fondo-formulario: #395b64;
-
-  /* Color Texto y titulos */
   --color-titulo-principal: #51c4d3;
   --color-titulo-secundario: #a5c9ca;
   --color-subtitulos: #d8e3e7;
   --color-texto: #e7f6f2;
-
-  /* Fuentes */
   --fuente-raleway: "Raleway", sans-serif;
-
-  /* Bordes */
   --borde-tarjeta: #00a8cc;
   --borde-botones: #e7f6f2;
   --borde-formimput: #e7f6f2;
-
-  /* Sombra */
   --color-sombra: #0c1c20;
+  --color-alerta: #ee7474;
 }

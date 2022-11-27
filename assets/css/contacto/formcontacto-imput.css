@@ -5,11 +5,15 @@
   color: var(--color-texto);
   font-size: 1rem;
   font-family: var(--fuente-raleway);
-  margin-bottom: 1.5rem;
   outline: none;
   padding: 1rem;
 }
 
 .formcontacto__input::placeholder {
   font-size: 1rem;
+}
+
+.formcontacto__input--invalido {
+  border: 1px solid var(--color-alerta)!important;
+  color: var(--color-alerta)!important;
 }
