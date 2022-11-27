@@ -1,8 +1,9 @@
 @import url(formcontacto-boton.css);
 @import url(formcontacto-contenedor.css);
-@import url(formcontacto-formulario.css);
+@import url(formcontacto-campo.css);
 @import url(formcontacto-formulario.css);
 @import url(formcontacto-imput.css);
+@import url(formcontacto-error.css);
 @import url(formcontacto-subtexto.css);
 @import url(formcontacto-textarea.css);
 @import url(formcontacto-texto.css);

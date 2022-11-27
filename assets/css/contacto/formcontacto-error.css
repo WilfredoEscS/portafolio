@@ -1,0 +1,6 @@
+.formcontacto__mensaje-error {
+  color: var(--color-alerta);
+  display: block;
+  margin-top: 0.5rem;
+  padding-left: 0.5rem;
+}
