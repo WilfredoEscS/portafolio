@@ -1,0 +1,5 @@
+.encabezado__correo {
+  color: var(--color-texto);
+  padding: 2rem;
+  font-weight: 700;
+}

@@ -1,3 +1,5 @@
+ @import url(encabezado-correo.css);
+ 
 .encabezado {
   display: flex;
   background: var(--color-fondo-principal);
