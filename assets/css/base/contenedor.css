@@ -1,6 +1,10 @@
 .contenedor {
   margin: 0 auto;
-  width: 80vw;
   padding: 2rem;
-
+  width: 80vw;
+}
+@media screen and (max-with: 1080px) {
+  .contenedor {
+    width: 90vw;
+  }
 }

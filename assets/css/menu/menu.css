@@ -6,3 +6,10 @@
   display: flex;
   justify-content: flex-end;
 }
+
+/* Diseño para tablets */
+@media screen and (max-width: 885px) {
+  .menu {
+    display: none;
+  }
+}

@@ -2,5 +2,18 @@
   color: var(--color-texto);
   font-size: 1.25rem;
   line-height: 1.5rem;
-  max-width: calc(80vw - 350px);
+}
+
+@media screen and (max-width: 1080px) {
+  .inicio__formacion {
+    font-size: 1rem;
+    line-height: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .inicio__formacion {
+    font-size: 0.75rem;
+    line-height: 1rem;
+  }
 }

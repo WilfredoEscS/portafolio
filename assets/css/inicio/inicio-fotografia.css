@@ -1,6 +1,22 @@
 .inicio__fotografia {
-  min-width: 350px;
-  min-height: 350px;
   background: gray;
   border-radius: 50%;
+  min-height: 30vw;
+  min-width: 30vw;
+}
+
+@media screen and (max-width: 1080px) {
+  .inicio__fotografia {
+    max-height: 20vw;
+    min-height: 20vw;
+    min-width: 20vw;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .inicio__fotografia {
+    max-height: 200px;
+    min-height: 200px;
+    min-width: 200px;
+  }
 }

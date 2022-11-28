@@ -1,4 +1,16 @@
 .inicio__contenido {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+}
+
+@media screen and (max-width: 1080px) {
+  .inicio__contenido {
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .inicio__contenido {
+    flex-direction: column-reverse;
+  }
 }

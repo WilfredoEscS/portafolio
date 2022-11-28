@@ -1,9 +1,14 @@
 .social__elemento {
   font-size: 1.25rem;
-  background-position: top 0.75rem right 2.5rem;
+  background-position: top 0.75rem right 0.5rem;
+  margin-right: 1.5rem;
   background-repeat: no-repeat;
   background-size: 1.5rem;
-  padding: 1rem 4.5rem 1rem 0;
+  padding: 1rem 2.5rem 1rem 0;
+}
+
+.social__elemento:last-child {
+  margin-right: 0;
 }
 
 .social__elemento--github {
@@ -21,4 +26,21 @@
 
 .social__elemento--cv {
   background-image: url("../../img/iconoSocial/icon-cv.png");
+}
+
+@media screen and (max-width: 1080px) {
+  .social__elemento {
+    background-size: 1.25rem;
+    font-size: 1rem;
+    line-height: 0.75rem;
+    margin-right: 0.75rem;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .social__elemento {
+    font-size: 0.75rem;
+    line-height: 1rem;
+    margin-right: 0.75rem;
+  }
 }
