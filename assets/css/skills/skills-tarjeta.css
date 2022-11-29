@@ -1,21 +1,16 @@
 .skills__tarjeta {
   align-items: flex-end;
   background-color: var(--color-fondo-tarjeta);
-  background-position: left 0.75rem bottom 2.5rem;
+  background-position: left 50% top 40%;
   background-repeat: no-repeat;
-  background-size: 4rem;
-  border-radius: 1rem 1rem 0 1rem;
+  background-size: 60%;
+  border-radius: 10% 10% 0 10%;
   box-shadow: 0.75rem 0.75rem 0.55rem var(--color-sombra);
   display: flex;
-  height: 175px;
-  justify-content: left;
+  height: 160px;
+  justify-content: center;
   margin: 1rem;
-  transition: 0.25s;
-  width: 150px;
-}
-
-.skills__tarjeta:hover {
-  transition: 0.25s;
+  width: 160px;
 }
 
 .skills__tarjeta--css {
@@ -31,4 +26,21 @@
 }
 .skills__tarjeta--git {
   background-image: url("../../img/skills/icono-git.png");
+}
+
+/* Diseño responsive */
+
+@media screen and (max-width: 1080px) {
+  .skills__tarjeta {
+    height: 130px;
+    width: 130px;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .skills__tarjeta {
+    height: 110px;
+    width: 110px;
+    margin: 5%;
+  }
 }

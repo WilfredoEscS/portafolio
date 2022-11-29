@@ -5,3 +5,17 @@
   height: fit-content;
   margin: 0.75rem;
 }
+
+/* Diseño responsive */
+
+@media screen and (max-width: 1080px) {
+  .hobbies__actividad {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .hobbies__actividad {
+    font-size: 0.75rem;
+  }
+}

@@ -1,7 +1,21 @@
 .skills__nombre {
   color: var(--color-texto);
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-weight: 700;
   height: fit-content;
   margin: 0.75rem;
+}
+
+/* Diseño responsive */
+
+@media screen and (max-width: 1080px) {
+  .skills__nombre {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .skills__nombre {
+    font-size: 0.75rem;
+  }
 }
