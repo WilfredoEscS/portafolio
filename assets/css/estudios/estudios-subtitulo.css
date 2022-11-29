@@ -1,6 +1,22 @@
 .estudios__subtitulo {
+  color: var(--color-texto);
   font-size: 1rem;
   font-weight: 500;
   margin-left: 0.5rem;
-  color: var(--color-texto);
+}
+
+/* Diseño responsive */
+
+@media screen and (max-width: 1080px) {
+  .estudios__subtitulo {
+    font-size: 1rem;
+    line-height: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .estudios__subtitulo {
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+  }
 }

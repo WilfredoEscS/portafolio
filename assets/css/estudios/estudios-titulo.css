@@ -5,3 +5,23 @@
   line-height: 2rem;
   margin-left: 0.5rem;
 }
+
+/* Diseño responsive */
+
+@media screen and (max-width: 1080px) {
+  .estudios__titulo {
+    align-items: center;
+    display: flex;
+    font-size: 1.25rem;
+    height: 3rem;
+    line-height: 1.25rem;
+  } 
+}
+
+@media screen and (max-width: 660px) {
+  .estudios__titulo {
+    font-size: 1.25rem;
+    height: auto;
+    line-height: 1.5;
+  }
+}

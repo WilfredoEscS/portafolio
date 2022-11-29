@@ -1,7 +1,28 @@
 .estudios__caja {
+  display: flex;
+  justify-content: center;
   margin-left: 2rem;
+  width: calc(50% - 2rem);
 }
 
 .estudios__caja:first-child {
   margin-left: 0;
+}
+
+.estudios__caja > ul {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+/* Diseño responsive */
+
+@media screen and (max-width: 660px) {
+  .estudios__caja {
+    margin: 1rem 0;
+    width: 100%;
+  }
+  .estudios__caja > ul {
+    align-items: center;
+  }
 }

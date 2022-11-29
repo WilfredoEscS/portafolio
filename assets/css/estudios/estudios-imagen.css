@@ -9,5 +9,29 @@
 }
 .estudios__imagen > img {
   height: fit-content;
-  width: fit-content;
+  width: 200px;
+}
+
+/* Diseño responsive */
+
+@media screen and (max-width: 960px) {
+  .estudios__imagen {
+    height: 80%;
+    width: 100%;
+  }
+  .estudios__imagen > img {
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .estudios__imagen {
+    height: 180px;
+    width: 280px;
+  }
+
+  .estudios__imagen > img {
+    height: fit-content;
+    width: 150px;
+  }
 }

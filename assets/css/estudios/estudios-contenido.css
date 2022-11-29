@@ -1,0 +1,14 @@
+.estudios__contenido {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  flex-wrap: wrap;
+}
+
+/* Diseño responsive */
+
+@media screen and (max-width: 660px) {
+  .estudios__contenido {
+    padding: 1rem 0 0 0;
+  }
+}
