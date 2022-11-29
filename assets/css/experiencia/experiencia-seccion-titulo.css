@@ -5,3 +5,18 @@
   font-weight: 700;
   line-height: 5rem;
 }
+
+/* Diseño responsive */
+
+@media screen and (max-width: 1080px) {
+  .experiencia__seccion__titulo {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .experiencia__seccion__titulo {
+    font-size: 1.75rem;
+  }
+}

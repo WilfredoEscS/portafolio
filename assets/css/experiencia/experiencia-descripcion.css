@@ -6,3 +6,12 @@
   justify-content: start;
   width: calc(40% - 2rem);
 }
+
+/* Diseño responsive */
+
+@media screen and (max-width: 930px) {
+  .experiencia__descripcion {
+    width: 100%;
+    height: fit-content;
+  }
+}

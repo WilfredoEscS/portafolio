@@ -2,3 +2,12 @@
   width: calc(60% - 2rem);
   border-radius: 1rem;
 }
+
+/* Diseño responsive */
+
+@media screen and (max-width: 930px) {
+  .experiencia__imagen {
+    width: 100%;
+    height: fit-content;
+  }
+}

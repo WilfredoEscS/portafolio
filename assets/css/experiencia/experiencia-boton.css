@@ -21,3 +21,21 @@
   border: 2px solid transparent;
   color: var(--color-fondo-principal);
 }
+
+/* Diseño responsive */
+
+@media screen and (max-width: 1080px) {
+  .experiencia__boton {
+    font-size: 1rem;
+    line-height: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .experiencia__boton {
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    height: 2.5rem;
+    width: 4.5rem;
+  }
+}

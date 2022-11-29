@@ -2,10 +2,16 @@
   display: flex;
   padding: 1rem 0;
   justify-content: space-around;
-
 }
 
 .experiencia__caja--inverso {
-flex-flow: row-reverse;
+  flex-flow: row-reverse;
 }
 
+/* Diseño responsive */
+
+@media screen and (max-width: 930px) {
+  .experiencia__caja {
+    flex-flow: column !important;
+  }
+}
