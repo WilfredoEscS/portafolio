@@ -4,3 +4,19 @@
   line-height: 1.5rem;
   width: 75%;
 }
+
+@media screen and (max-width: 1080px) {
+  .sobre-mi__texto {
+    font-size: 1rem;
+    line-height: 1.25rem;
+    width: initial;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .sobre-mi__texto {
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    width: initial;
+  }
+}
