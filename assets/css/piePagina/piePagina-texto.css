@@ -1,8 +1,22 @@
 .pie-pagina__texto {
+  font-size: 1.25rem;
   color: var(--color-texto);
   font-weight: 400;
 }
 
 .pie-pagina__texto > span {
   color: var(--color-titulo-principal);
+}
+@media screen and (max-width: 1080px) {
+  .pie-pagina__texto {
+    font-size: 1rem;
+    line-height: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .pie-pagina__texto {
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+  }
 }

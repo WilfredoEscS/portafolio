@@ -1,8 +1,14 @@
- @import url(encabezado-correo.css);
- 
+@import url(encabezado-correo.css);
+
 .encabezado {
-  display: flex;
   background: var(--color-fondo-principal);
-  width: 100%;
+  display: flex;
   position: fixed;
+  width: 100%;
+}
+
+@media screen and (max-width: 1080px) {
+  .encabezado {
+    justify-content: flex-end;
+  }
 }
