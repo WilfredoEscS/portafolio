@@ -4,6 +4,7 @@
   font-family: var(--fuente-raleway);
   padding: 3rem;
   margin: 0 auto;
+  width: 60%;
 }
 
 /* Diseño responsive */
@@ -11,6 +12,6 @@
 @media screen and (max-width: 660px) {
   .formcontacto__texto {
     border-radius: 1rem;
-    padding: 2rem;
+    width: 80%;
   }
 }
