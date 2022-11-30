@@ -4,3 +4,20 @@
   margin-top: 0.5rem;
   padding-left: 0.5rem;
 }
+
+/* Diseño responsive */
+
+@media screen and (max-width: 1080px) {
+  .formcontacto__mensaje-error {
+    font-size: 1rem;
+    line-height: 1.25rem;
+    margin-top: 0.25rem;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .formcontacto__mensaje-error {
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+  }
+}

@@ -9,3 +9,19 @@
   width: fit-content;
   color: var(--color-texto);
 }
+
+/* Diseño responsive */
+
+@media screen and (max-width: 1080px) {
+  .formcontacto__boton {
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .formcontacto__boton {
+    font-size: 0.75rem;
+    padding: 0.75rem;
+  }
+}
